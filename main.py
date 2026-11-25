@@ -25,6 +25,9 @@ def main() -> None:
     with open("/output/entry.txt", "w", encoding="utf-8") as f:
         f.write(ENTRY)
 
+    # Show the story on stdout too, so a run visibly reports its entry.
+    print(f"{ENTRY} ({len(ENTRY)}/32 characters)")
+
 
 if __name__ == "__main__":
     main()
