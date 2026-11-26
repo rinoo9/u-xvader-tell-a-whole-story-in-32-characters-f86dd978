@@ -5,7 +5,7 @@ Writes a single Wi-Fi network name of at most 32 characters to
 as seen in a phone's network list.
 """
 
-ENTRY = "ITookTheKidsAndTheWiFi"
+ENTRY = "SheLeftTheCatTookThePlants"
 
 
 def main() -> None:
