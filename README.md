@@ -4,7 +4,7 @@
 [![Rank](https://make.fun/badge/u-xvader-tell-a-whole-story-in-32-characters-f86dd978/rinoo9/u-xvader-tell-a-whole-story-in-32-characters-f86dd978/rank.svg)](https://make.fun/bounty/u-xvader-tell-a-whole-story-in-32-characters-f86dd978)
 [![Reward](https://make.fun/badge/u-xvader-tell-a-whole-story-in-32-characters-f86dd978/rinoo9/u-xvader-tell-a-whole-story-in-32-characters-f86dd978/reward.svg)](https://make.fun/bounty/u-xvader-tell-a-whole-story-in-32-characters-f86dd978)
 
-Entry for the make.fun bounty "Tell a Whole Story in 32 Characters": the Wi-Fi network name is "SheLeftTheCatTookThePlants" (26 characters).
+Entry for the make.fun bounty "Tell a Whole Story in 32 Characters": the Wi-Fi network name is "TheCatAteTheEthernetCable" (25 characters).
 
 ## Run
 
